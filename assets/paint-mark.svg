@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Stateside Painting mark</title>
+  <desc id="desc">Line art paint can pouring paint</desc>
+  <defs>
+    <style>
+      .line{fill:none;stroke:#dfe8c9;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+      .fill{fill:#dfe8c9}
+    </style>
+  </defs>
+  <path class="line" d="M79 54c23-13 55-10 73 8 12 12 15 31 8 48"/>
+  <path class="line" d="M64 73c17-25 60-35 85-10 17 17 16 45-4 68"/>
+  <path class="line" d="M82 49c-22-5-39 2-45 17-6 17 1 34 18 43"/>
+  <path class="line" d="M62 91c-8 20-19 37-27 51-10 18-5 31 15 38"/>
+  <path class="line" d="M75 100c4 29-5 51-24 77"/>
+  <ellipse class="line" cx="118" cy="173" rx="56" ry="18"/>
+  <ellipse class="line" cx="51" cy="180" rx="40" ry="11"/>
+  <path class="line" d="M143 64c7-16 21-22 36-17"/>
+  <path class="line" d="M179 47c17 6 23 22 17 37-5 14-19 21-33 18"/>
+  <path class="line" d="M69 177c-4 9-12 15-22 17"/>
+  <circle class="fill" cx="98" cy="91" r="5"/>
+</svg>
